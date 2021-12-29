@@ -1,22 +1,34 @@
-Welcome to Lumache's documentation!
+Welcome to the Signata Project documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Signata** is a Decentralized Identity project for smart contract-based blockchains.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+This documentation will provide 
+
+See :doc:`contracts` for smart contract addresses.
+
+See :ref:`identity` for details on how identity lifecycle is managed.
+
+See :ref:`integrations` for implementation details on integrations with the Signata platform.
+
+See :ref:`DAO` for details on governance for the project.
+
+See :ref:`chains` for implementation-specific differences between blockchains that Signata is deployed on.
+
+See :ref:`risk` for information on the Risk Oracle solution.
 
 .. note::
 
-   This project is under active development.
+   This project is under active development and smart contracts may be changed at any time.
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   contracts
+   identity
+   integrations
+   DAO
+   chains
+   risk
