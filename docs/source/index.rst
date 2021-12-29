@@ -1,4 +1,4 @@
-Welcome to the Signata Project documentation!
+Welcome to the Signata project documentation!
 ===================================
 
 **Signata** is a Decentralized Identity project for smart contract-based blockchains.
