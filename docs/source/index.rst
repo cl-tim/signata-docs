@@ -1,21 +1,18 @@
-Welcome to the Signata project documentation!
-===================================
+=============================
+Signata Project Documentation
+=============================
 
 **Signata** is a Decentralized Identity project for smart contract-based blockchains.
 
 This documentation will provide 
 
-See :doc:`contracts` for smart contract addresses.
-
-See :ref:`identity` for details on how identity lifecycle is managed.
-
-See :ref:`integrations` for implementation details on integrations with the Signata platform.
-
-See :ref:`DAO` for details on governance for the project.
-
-See :ref:`chains` for implementation-specific differences between blockchains that Signata is deployed on.
-
-See :ref:`risk` for information on the Risk Oracle solution.
+* See :doc:`chains` for implementation-specific differences between blockchains that Signata is deployed on.
+* See :doc:`contracts` for smart contract addresses.
+* See :doc:`dao` for details on governance for the project.
+* See :doc:`identity` for details on how identity lifecycle is managed on the chain.
+* See :doc:`integrations` for implementation details on integrations with the Signata platform.
+* See :doc:`risk` for information on the Risk Oracle solution.
+* See :doc:`veriswap` for information about the Veriswap service.
 
 .. note::
 
@@ -26,9 +23,10 @@ Contents
 
 .. toctree::
 
+   chains
    contracts
+   dao
    identity
    integrations
-   DAO
-   chains
    risk
+   veriswap
