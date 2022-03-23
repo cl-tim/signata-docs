@@ -103,7 +103,7 @@ Metis Stardust Network
 +-------------------+------------------------------------------------+
 |                   | Address                                        |
 +===================+================================================+
-| SATA Token        | ``TBC``                                        |
+| SATA Token        | ``0x3ebb4A4e91Ad83BE51F8d596533818b246F4bEe1`` |
 +-------------------+------------------------------------------------+
 | SignataIdentity   | ``0x545f8952A5cADF63DeE9658C189B309FAd5d789f`` |
 +-------------------+------------------------------------------------+
@@ -120,12 +120,10 @@ Metis Stardust Network
 Metis Andromeda Network
 ------------
 
-Note: contract addresses for `SignataIdentity` and `SignataRight` are identical to the stardust testnet as they were created from the same account and transaction nonce.
-
 +-------------------+------------------------------------------------+
 |                   | Address                                        |
 +===================+================================================+
-| SATA Token        | ``TBC``                                        |
+| SATA Token        | ``0x3ebb4A4e91Ad83BE51F8d596533818b246F4bEe1`` |
 +-------------------+------------------------------------------------+
 | SignataIdentity   | ``0x545f8952A5cADF63DeE9658C189B309FAd5d789f`` |
 +-------------------+------------------------------------------------+
