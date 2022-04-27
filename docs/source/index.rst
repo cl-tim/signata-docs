@@ -13,6 +13,7 @@ This documentation will provide
 * See :doc:`integrations` for implementation details on integrations with the Signata platform.
 * See :doc:`risk` for information on the Risk Oracle solution.
 * See :doc:`veriswap` for information about the Veriswap service.
+* See :doc:`links` for links to development communities and other connected services.
 
 .. note::
 
@@ -30,3 +31,4 @@ Contents
    integrations
    risk
    veriswap
+   links
