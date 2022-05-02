@@ -5,6 +5,11 @@ Examples
 .. autosummary::
    :toctree: generated
 
+.. warning::
+
+   Any source code provided on this site is unaudited and provides no guarantee that it will be functional or safe to use. Ensure you
+   test before deploying to mainnet or production use.
+
 -----------------------------------------------------
 Applying Signata Identities to Authentication Systems
 -----------------------------------------------------
