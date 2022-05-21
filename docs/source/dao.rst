@@ -7,6 +7,13 @@ DAO
 
 Signata Governance is currently managed on GitHub using a dedicated repository using Issues to track each proposal.
 
+Management
+---------
+
+All Signata DAO proposals are managed on GitHub.
+
+`GitHub <https://github.com/congruentlabs/signata-dao>`_
+
 Interface
 ---------
 
