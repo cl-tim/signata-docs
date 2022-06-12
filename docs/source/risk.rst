@@ -23,6 +23,8 @@ The Risk API is a python flask service using `Supabase <supabase.com>`_ for reco
 
 ``SUPABASE_KEY``
 
+The Congruent Labs Risk API service is hosted at ``https://risk.signata.net/``
+
 Get Risk Level
 ^^^^^^^^^^^^^^
 
