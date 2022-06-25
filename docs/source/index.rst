@@ -7,6 +7,7 @@ Signata Project Documentation
 * See :doc:`chains` for implementation-specific differences between blockchains that Signata is deployed on.
 * See :doc:`contracts` for smart contract addresses.
 * See :doc:`dao` for details on governance for the project.
+* See :doc:`design` for architecture and design documentation.
 * See :doc:`examples` for examples on how to use Signata identities.
 * See :doc:`identity` for details on how identity lifecycle is managed on the chain.
 * See :doc:`integrations` for implementation details on integrations with the Signata platform.
@@ -26,6 +27,7 @@ Contents
    chains
    contracts
    dao
+   design
    examples
    identity
    integrations
